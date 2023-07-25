@@ -1,4 +1,4 @@
-﻿NewClass.AccInfo("atchi", "213asd", "213asd");
+﻿NewClass.AccInfo("atchi ", "213asd", "213asd");
 public class NewClass
 {
     
